@@ -1,0 +1,14 @@
+============== YOUR INVOICE =================
+------------------
+ID:8
+Name:bigdata
+Type:science
+Author:viktor
+Publisher:khoahoc
+Number of copies:3
+Price each copies:120
+--------------------
+Total of this book: 360
+==========================
+Total you must pay: 360
+==========================

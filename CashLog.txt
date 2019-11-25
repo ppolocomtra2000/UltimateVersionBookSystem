@@ -1,0 +1,7 @@
+[ 2019-11-24 22:49:48 ] Customer(tai) refund books(ID:nhapmonlaptrinh) ---------- Outcome: 50
+[ 2019-11-25 16:36:22 ] Manager(tientai) add new books(ID:ctdl) ---------- Outcome: 240
+[ 2019-11-25 17:54:53 ] Customer(tai) refund books(Name:bigdata) ---------- Outcome: 600
+[ 2019-11-25 18:6:52 ] Customer(phong) refund books(Name:bigdata) ---------- Outcome: 600
+[ 2019-11-25 18:8:33 ] Customer(phong) refund books(Name:bigdata) ---------- Outcome: 240
+[ 2019-11-25 18:10:12 ] Author(tien) add new books(ID:mmt) ---------- Outcome: 400
+[ 2019-11-25 18:18:18 ] Publisher(thinh) add new books(ID:thuctap) ---------- Outcome: 1200

@@ -1,0 +1,11 @@
+
+1 nmlt IT tai kimdong 10 50
+2 ctdl roman tien nhanam 20 20
+3 oop sex quan dhqg 10 70
+4 ktlt IT tai kimdong 20 60
+5 xstk math tien nhanam 5 80
+6 vtp math quan dhqg 10 30
+7 pldc politics phong nxbtre 20 40
+8 bigdata science viktor khoahoc 12 120
+9 mmt network tai 15 50 120
+10 thuctap love tai kimdong 20 40
